@@ -1,0 +1,1 @@
+About how to write in WSDL file information about http get post requests
